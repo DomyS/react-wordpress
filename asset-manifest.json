@@ -1,0 +1,30 @@
+{
+  "files": {
+    "static/js/0.chunk.js": "/wordpress/wp-content/themes/react_theme/static/js/0.chunk.js",
+    "static/js/0.chunk.js.map": "/wordpress/wp-content/themes/react_theme/static/js/0.chunk.js.map",
+    "main.css": "/wordpress/wp-content/themes/react_theme/static/css/main.chunk.css",
+    "main.js": "/wordpress/wp-content/themes/react_theme/static/js/main.chunk.js",
+    "main.css.map": "/wordpress/wp-content/themes/react_theme/static/css/main.chunk.css.map",
+    "main.js.map": "/wordpress/wp-content/themes/react_theme/static/js/main.chunk.js.map",
+    "runtime-main.js": "/wordpress/wp-content/themes/react_theme/static/js/bundle.js",
+    "runtime-main.js.map": "/wordpress/wp-content/themes/react_theme/static/js/bundle.js.map",
+    "index.php": "/wordpress/wp-content/themes/react_theme/index.php",
+    "static/media/350.svg": "/wordpress/wp-content/themes/react_theme/static/media/350.b131cccf.svg",
+    "static/media/AFL.svg": "/wordpress/wp-content/themes/react_theme/static/media/AFL.d72e9ae3.svg",
+    "static/media/NBA.svg": "/wordpress/wp-content/themes/react_theme/static/media/NBA.a2f27f93.svg",
+    "static/media/Pearson.svg": "/wordpress/wp-content/themes/react_theme/static/media/Pearson.567142c8.svg",
+    "static/media/PeterMac.svg": "/wordpress/wp-content/themes/react_theme/static/media/PeterMac.beb68fae.svg",
+    "static/media/RMIT.svg": "/wordpress/wp-content/themes/react_theme/static/media/RMIT.72023a83.svg",
+    "static/media/altr-bottom.png": "/wordpress/wp-content/themes/react_theme/static/media/altr-bottom.70767fb3.png",
+    "static/media/app.png": "/wordpress/wp-content/themes/react_theme/static/media/app.f7a48b54.png",
+    "static/media/cat.jpg": "/wordpress/wp-content/themes/react_theme/static/media/cat.454d3d40.jpg",
+    "static/media/dribbble-logo.png": "/wordpress/wp-content/themes/react_theme/static/media/dribbble-logo.7924798a.png",
+    "static/media/header.jpg": "/wordpress/wp-content/themes/react_theme/static/media/header.0e8793a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/js/0.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
